@@ -1,5 +1,5 @@
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using C# to frontend development using JavaScript, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on back-end development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using C# to frontend development using JavaScript, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>Back-And mid-level developer</strong> focused on back-end development.</p>&nbsp;
 
 
 ## My Skills
